@@ -9,8 +9,4 @@ class TyporaUploader < Formula
   def install
     bin.install "typora-uploader"
   end
-
-  test do
-    system "true"
-  end
 end
