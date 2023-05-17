@@ -1,0 +1,1 @@
+# homebrew-typora-uploader
