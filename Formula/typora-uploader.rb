@@ -3,7 +3,7 @@ class TyporaUploader < Formula
   homepage "https://github.com/mingkyme/homebrew-typora-uploader"
   url "https://github.com/mingkyme/homebrew-typora-uploader/releases/download/preview/typora-uploader.tar.gz"
   version "1.0"
-  sha256 "5f70bf18a086007016e948b04aed3b82103a36bea41755b6cddfaf10ace3c6ef"
+  sha256 "437ee1d95a48ad3fa08207256a7c4262b990f37ae1f68e14c1db64d3030172d6"
   license "MIT"
 
   def install
