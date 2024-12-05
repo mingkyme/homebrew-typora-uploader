@@ -1,7 +1,7 @@
 # homebrew-typora-uploader
 
 사용방법
-```bash
+```shell
 brew tap mingkyme/typora-uploader
 brew install typora-uploader
 
